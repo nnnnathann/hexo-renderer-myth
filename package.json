@@ -1,0 +1,28 @@
+{
+  "name": "hexo-renderer-myth",
+  "version": "0.1.0",
+  "description": "Myth renderer plugin for Hexo",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nnnnathann/hexo-renderer-myth.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nnnnathann/hexo-renderer-myth/issues"
+  },
+  "keywords": [
+    "hexo",
+    "myth",
+    "css",
+    "style",
+    "stylesheet",
+    "styl",
+    "renderer"
+  ],
+  "author": "Nathan Bleigh (nathan.bleigh@gmail.com)",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "myth": "^1.2.0",
+    "rework": "^1.0.1"
+  }
+}
