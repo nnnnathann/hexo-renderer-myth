@@ -21,7 +21,7 @@
   ],
   "author": "Nathan Bleigh (nathan.bleigh@gmail.com)",
   "dependencies": {
-    "lodash": "^2.4.1",
+    "lodash": "^4.17.19",
     "myth": "^1.2.0",
     "rework": "^1.0.1"
   }
